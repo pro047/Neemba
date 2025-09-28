@@ -13,9 +13,12 @@
 - Backend : https://github.com/pro047/Neemba_Back
 
 ## 스크린샷
+-translating
+<video src="./translating.mp4" width="300" heigt="300" />
+
 - start page
-<img src="./startpage.png" width="300" heigt="300">
+<img src="./startpage.png" width="300" heigt="300"/>
 
 - translation page
-<img src="./translationpage.png" width="300" heigt="300">
+<img src="./translationpage.png" width="300" heigt="300"/>
   
