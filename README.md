@@ -14,7 +14,7 @@
 
 ## 스크린샷
 - start page
-  <img src="./startpage.png" width="300" heigt="400">
+  <img src="./startpage.png" width="300" heigt="300">
 - translation page
-  <img src="./translationpage.png" width="300" heigt="400">
+  <img src="./translationpage.png" width="300" heigt="300">
   
