@@ -13,3 +13,7 @@
 - Backend : https://github.com/pro047/Neemba_Back
 
 ## 스크린샷
+- start page
+  [startpage] : (./startpage.png)
+- translation page
+  [translationpage] : (./translationpage.png)
