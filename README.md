@@ -14,7 +14,7 @@
 
 ## 스크린샷
 -translating
-![translating](./translating.gif)
+<img src="./translating.gif" width="300" heigt="300"/>
 
 - start page
 <img src="./startpage.png" width="300" heigt="300"/>
