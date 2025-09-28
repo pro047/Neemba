@@ -14,7 +14,7 @@
 
 ## 스크린샷
 -translating
-<video src="./translating.mp4" width="300" heigt="300" />
+![translating](./translating.gif)
 
 - start page
 <img src="./startpage.png" width="300" heigt="300"/>
