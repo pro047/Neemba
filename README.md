@@ -14,6 +14,7 @@
 
 ## 스크린샷
 - start page
-  ![startpage](./startpage.png)
+  <img src="./startpage.png" width="300" heigt="400">
 - translation page
-  ![translationpage](./translationpage.png)
+  <img src="./translationpage.png" width="300" heigt="400">
+  
