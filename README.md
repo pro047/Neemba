@@ -13,7 +13,7 @@
 - Backend : https://github.com/pro047/Neemba_Back
 
 ## 스크린샷
--translating
+- translating
 <img src="./translating.gif" width="300" heigt="300"/>
 
 - start page
